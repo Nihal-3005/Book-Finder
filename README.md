@@ -32,3 +32,20 @@
 ---
 
 ## 📂 Project Structure
+book-finder/
+│
+├── public/
+│ └── index.html # Main HTML file
+│
+├── src/
+│ ├── components/
+│ │ ├── SearchBar.js # Search input field
+│ │ └── BookCard.js # Book display card
+│ │
+│ ├── pages/
+│ │ └── Home.js # Main page (fetch + pagination)
+│ │
+│ ├── App.js # Root component
+│ └── index.js # Entry point (ReactDOM.render)
+│
+└── README.md
