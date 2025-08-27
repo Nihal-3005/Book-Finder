@@ -20,7 +20,7 @@
 ## 🖼️ Preview  
 
 ### 🔍 Search & Pagination  
-![Book Finder Demo](."C:\Users\Nihal\Desktop\book-finderjhhg\src\assets\Bookfinder.png")  
+![Book Finder Demo](./Bookfinder.png")  
 *(Take a screenshot of your app → save as `demo.png` in repo root → it will show here)*  
 
 ---
