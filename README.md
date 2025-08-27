@@ -1,12 +1,35 @@
-# React + Vite
+# 📚 Book Finder App  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-18-blue?logo=react)](https://reactjs.org/)  
+🔍 A modern **Book Finder** app built with **React + OpenLibrary API**, featuring **search, pagination, and smooth UX**.  
 
-Currently, two official plugins are available:
+🌐 **Live Demo** → [Book Finder Website](https://cftpq4-5173.csb.app/)  
+📂 **Source Code** → [GitHub Repository](https://github.com/Nihal-3005/Book-Finder)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+✅ Search books by **title**  
+✅ Displays **total results count**  
+✅ **Pagination** (20 results per page)  
+✅ **Prev / Next navigation** with smooth scroll to top  
+✅ Built with **React, HTML, CSS, JavaScript only** (no extra tools)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview  
+
+### 🔍 Search & Pagination  
+![Book Finder Demo](."C:\Users\Nihal\Desktop\Bookfinder.png")  
+*(Take a screenshot of your app → save as `demo.png` in repo root → it will show here)*  
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ **React + ReactDOM** (plain setup, no CRA)  
+- 🎨 **HTML + CSS** (Tailwind / custom styles)  
+- 🌍 **OpenLibrary API** for book data  
+
+---
+
+## 📂 Project Structure
